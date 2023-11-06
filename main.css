@@ -1181,6 +1181,7 @@ html {
     height: 370px;
     background-image: url("../images/display_headline.png");
     transform: translate(104px, 0);
+   
   }
   .display .notes .figures {
     height: 814px;
